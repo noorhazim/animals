@@ -1,0 +1,4 @@
+Animals found in a zoo:
+1. Lion
+2. Bear
+3. Rabit
